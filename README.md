@@ -1,6 +1,6 @@
 # Movies smart list
 
-This simple project is rendering a predefined list of movies with pagination. You can filter the list by genres, sort, like,and delete items.
+This simple project is rendering a predefined list of movies with pagination. You can filter the list by genres, sort, like, and delete items.
 
 In this screen you can see how the main page looks.
 
